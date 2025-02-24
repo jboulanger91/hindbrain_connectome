@@ -5,8 +5,6 @@ import navis
 import os
 import fnmatch
 import matplotlib.pyplot as plt
-import matplotlib.colors as mcolors
-from matplotlib.patches import Rectangle
 from datetime import datetime
 from scipy.signal import savgol_filter
 
